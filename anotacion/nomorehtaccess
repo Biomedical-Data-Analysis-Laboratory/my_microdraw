@@ -1,0 +1,5 @@
+AuthUserFile .htpasswd
+AuthName "MicroDraw: segmentación de imagenes"
+AuthType Basic
+
+require user cvblab
